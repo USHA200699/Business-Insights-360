@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/117802269/203576490-7ea74ef4-a9c3-4241-8e98-62ee30453b28.mp4
+
 
 # Business Insights 360
 
@@ -126,6 +126,9 @@ Fact table : It will have the data about the transactions
 - Poor data modeling affects the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
 
+![bandicam 2022-11-22 19-37-49-274](https://user-images.githubusercontent.com/117802269/203576835-770e694b-f1c1-4ad0-ae58-eb643df5b9c9.jpg)
+
+
 
 
 
@@ -149,7 +152,7 @@ In Home view, all the views button will be available. User will land on specific
 
 
 
-
+https://user-images.githubusercontent.com/117802269/203576490-7ea74ef4-a9c3-4241-8e98-62ee30453b28.mp4
 
 
 
